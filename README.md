@@ -64,8 +64,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 📈 GitHub | 💻 Languages | 📫 Contact |
 |-----------|--------------|-----------|
-| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** https://www.linkedin.com/in/
-ayobami-olusesan<br>**Email:**ayobamiolusesan@gmail.com |
+| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** https://www.linkedin.com/in/ayobamiolusesan<br>**Email:**ayobamiolusesan@gmail.com |
 
 ---
 
