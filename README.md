@@ -1,7 +1,7 @@
 
 <!-- ======================= BANNER ======================= -->
 
-<h1 align="center">Hi, olusesan Ayobami</h1>
+<h1 align="center">Hi,I'm Olusesan Ayobami</h1>
 
 <h3 align="center">
 Cybersecurity Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
