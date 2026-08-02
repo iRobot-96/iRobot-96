@@ -45,7 +45,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |[view project](https://github.com/iRobot-96/multi-vm-cybersecrity-lab)|
 | 🔐 AD CS | Enterprise Certificate Services |[view project](https://github.com/iRobot-96/-AD-CS)|
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[view project](https://github.com/iRobot-96/-Active-Directory-GPO)|
-| ☁ AWS IAM | Identity & Access Management |[view project]()|
+| ☁ AWS IAM | Identity & Access Management |[view project](https://github.com/iRobot-96/-AWS-IAM)|
 | ☁ Azure IAM | Microsoft Entra Identity |[view project]()|
 | 🐧 Linux IAM | User & Permission Management |[view project]()|
 | 🛡 Nessus | Network Vulnerability Management |[view project]()|
