@@ -49,8 +49,8 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | ☁ Azure IAM | Microsoft Entra Identity |[view project](https://github.com/iRobot-96/-Azure-IAM-)|
 | 🐧 Linux IAM | User & Permission Management |[view project](https://github.com/iRobot-96/-Linux-IAM)|
 | 🛡 Nessus | Network Vulnerability Management |[view project](https://github.com/iRobot-96/-Nessus)|
-| 📊 Qualys | Enterprise Vulnerability Management |[view project]()|
-| ☁ Prowler | AWS Cloud Security Assessment |[view project]()|
+| 📊 Qualys | Enterprise Vulnerability Management |[view project](https://github.com/iRobot-96/Qualys)|
+| ☁ Prowler | AWS Cloud Security Assessment |[view project](https://github.com/iRobot-96/prowler)|
 | 🎯 Penetration Testing | Network & Web Security Testing |[view project]()|
 | 📈 Splunk SIEM | Detection & Monitoring |[view project]()|
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection |[view project]()|
