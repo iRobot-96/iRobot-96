@@ -52,7 +52,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 📊 Qualys | Enterprise Vulnerability Management |[view project](https://github.com/iRobot-96/Qualys)|
 | ☁ Prowler | AWS Cloud Security Assessment |[view project](https://github.com/iRobot-96/prowler)|
 | 🎯 Penetration Testing | Network & Web Security Testing |[view project](https://github.com/iRobot-96/Penetration-Testing)|
-| 📈 Splunk SIEM | Detection & Monitoring |[view project](https://github.com/iRobot-96/Splunk SIEM)|
+| 📈 Splunk SIEM | Detection & Monitoring |[view project]()|
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection |[view project]()|
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[view project]()|
 | 📧 Zphisher | Security Awareness Simulation |[view project]()|
