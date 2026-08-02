@@ -54,7 +54,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🎯 Penetration Testing | Network & Web Security Testing |[view project](https://github.com/iRobot-96/Penetration-Testing)|
 | 📈 Splunk SIEM | Detection & Monitoring |[view project](https://github.com/iRobot-96/Splunk-SIEM)|
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection |[view project](https://github.com/iRobot-96/MITRE-ATT-CK)|
-| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[view project]()|
+| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[view project](https://github.com/iRobot-96/-Framework-Mapping)|
 | 📧 Zphisher | Security Awareness Simulation |[view project]()|
 | 🦠 Malware Analysis | Static & Dynamic Analysis |[view project]()|
 
