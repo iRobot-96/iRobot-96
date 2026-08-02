@@ -56,7 +56,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection |[view project](https://github.com/iRobot-96/MITRE-ATT-CK)|
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[view project](https://github.com/iRobot-96/-Framework-Mapping)|
 | 📧 Zphisher | Security Awareness Simulation |[view project](https://github.com/iRobot-96/-Zphisher)|
-| 🦠 Malware Analysis | Static & Dynamic Analysis |[view project]()|
+| 🦠 Malware Analysis | Static & Dynamic Analysis |[view project](https://github.com/iRobot-96/Malware-Analysis)|
 
 ---
 
