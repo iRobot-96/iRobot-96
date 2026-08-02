@@ -46,7 +46,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🔐 AD CS | Enterprise Certificate Services |[view project](https://github.com/iRobot-96/-AD-CS)|
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[view project](https://github.com/iRobot-96/-Active-Directory-GPO)|
 | ☁ AWS IAM | Identity & Access Management |[view project](https://github.com/iRobot-96/-AWS-IAM)|
-| ☁ Azure IAM | Microsoft Entra Identity |[view project]()|
+| ☁ Azure IAM | Microsoft Entra Identity |[view project](https://github.com/iRobot-96/-Azure-IAM-)|
 | 🐧 Linux IAM | User & Permission Management |[view project]()|
 | 🛡 Nessus | Network Vulnerability Management |[view project]()|
 | 📊 Qualys | Enterprise Vulnerability Management |[view project]()|
