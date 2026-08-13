@@ -43,7 +43,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | Project | Description |Project Link|
 |---------|-------------|----------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |[view project](https://github.com/iRobot-96/multi-vm-cybersecrity-lab)|
-| NETWORK SEGMENTATION | SUBNETTING | [view project](https://github.com/iRobot-96/networsegmentation)|
+| NETWORK SEGMENTATION | SUBNETTING | [view project](https://github.com/iRobot-96/Network-Segmentation)|
 | 🔐 AD CS | Enterprise Certificate Services |[view project](https://github.com/iRobot-96/-AD-CS)|
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[view project](https://github.com/iRobot-96/-Active-Directory-GPO)|
 | ☁ AWS IAM | Identity & Access Management |[view project](https://github.com/iRobot-96/-AWS-IAM)|
